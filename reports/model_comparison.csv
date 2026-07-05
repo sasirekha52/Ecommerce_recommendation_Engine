@@ -1,0 +1,4 @@
+Model,Metric,Score
+Ridge Regression,R2 Score,0.2845013805741038
+Logistic Regression,Accuracy,1.0
+KMeans,Silhouette,0.510835564186355
