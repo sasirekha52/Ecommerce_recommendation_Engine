@@ -1,5 +1,10 @@
 # 🛒 E-Commerce Recommendation System
 
+[![Streamlit App](https://ecommercerecommendationengine-osouo8utengzzcnzd2z3jc.streamlit.app/)
+
+> 🚀 **Live Demo:** (https://ecommercerecommendationengine-osouo8utengzzcnzd2z3jc.streamlit.app/)
+
+
 An end-to-end Machine Learning project that analyzes online shopping behavior, predicts customer ratings, predicts purchase intentions, and segments customers using clustering techniques. The project includes data preprocessing, exploratory data analysis (EDA), multiple machine learning models, a professional Streamlit web application, and GitHub-ready documentation.
 
 ---
