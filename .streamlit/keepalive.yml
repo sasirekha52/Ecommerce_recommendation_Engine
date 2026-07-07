@@ -12,5 +12,4 @@ jobs:
     steps:
       - name: Ping Streamlit Web application
         run: |
-          # Replace the URL below with your actual live Streamlit app link once deployed
-          curl -I "https://streamlit.app"
+          # https://ecommercerecommendationengine-osouo8utengzzcnzd2z3jc.streamlit.app/"
